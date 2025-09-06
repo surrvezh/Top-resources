@@ -1,25 +1,95 @@
-Join our whatsapp community: https://www.whatsapp.com/channel/0029Vanmr9EJuyABr8X5US2z
-Subscribe to my youtube channel: https://yt.openinapp.co/ua6io
+# 🧭 Hackathon Problem Statement (PS) Analysis + Flow Diagram Prompt  
 
-Here you go here is the prompt
+Use this prompt to analyze any **Problem Statement (PS)** during hackathons (e.g., SIH).  
+Just **paste your PS where indicated** and drop this into ChatGPT (or your mentor tool).  
+You’ll get a **structured, visually engaging breakdown + a Miro-ready flow diagram**.  
+
+---
+
+## 🚀 The Prompt  
+
+I have the following **Problem Statement (PS):**  
+
+👉 [Paste your PS here]  
+
+Please analyze it thoroughly and give me a **structured, visually engaging breakdown** under the following categories:  
+
+---
+
+### 1. Problem Understanding & Pain Points 🔍  
+- What exact problem is being solved?  
+- Root causes of this problem  
+- Primary stakeholders/users affected  
+- Current inefficiencies or challenges  
+
+---
+
+### 2. Feasibility of Execution ⚙️  
+- Can a prototype be realistically built within hackathon timelines?  
+- Technical requirements (APIs, datasets, hardware, integrations)  
+- Possible blockers (data access, regulations, scalability)  
+- What MVP (minimum viable product) can be delivered?  
+
+---
+
+### 3. Impact & Relevance 🌍  
+- Who benefits (citizens, govt, industry, students, etc.)  
+- Real-world impact (economic, social, environmental)  
+- Can it scale beyond a hackathon? (enterprise/state/national level)  
+- Why would evaluators care about this problem?  
+
+---
+
+### 4. Innovation & Competitive Landscape 💡  
+- Existing products/solutions in this space  
+- Their limitations  
+- Provide a **competitor analysis table** (apps, platforms, research papers)  
+- What innovative approaches/features can be added?  
+- How can the solution stand out (AI/ML, Blockchain, AR/VR, IoT, UX, etc.)?  
+
+---
+
+### 5. Clarity of the Problem Statement 🧩  
+- Clear deliverables expected  
+- Areas where teams may misinterpret the PS  
+- How to frame the solution clearly for evaluators  
+
+---
+
+### 6. Evaluator’s Perspective 🎯  
+- How judges will assess this PS  
+- Key scoring criteria (novelty, feasibility, sustainability, impact, completeness)  
+- Red flags evaluators might notice  
+
+---
+
+### 7. Team Strategy & Execution Plan 👥  
+- Essential skill sets (backend, frontend, AI/ML, hardware, design, pitching)  
+- Ideal team ratio  
+- Step-by-step roadmap (research → ideation → prototype → presentation)  
+
+---
+
+### 8. Flow Diagram (Miro-Ready) 🗺️  
+- Provide a **flow diagram outline** in text format that can be recreated in **Miro**.  
+- Represent processes, decisions, inputs, and outputs using standard flowchart notation.  
+- Example format:  
 
 
-I am applying for Smart India Hackathon (SIH) 2025.  
-I will provide you with:  
-1. A list of 10 official problem statements from SIH 2025.  
-2. My team’s technical skills, strengths, and past experience.  
+- Mark decisions as diamonds (◇), processes as rectangles (▭), inputs/outputs as parallelograms, and flows as arrows (→).  
+- Ensure it is easy to copy into **Miro** and convert into shapes.  
 
-Your task:  
-- Analyze the problem statements in detail.  
-- Compare them with my team’s skills and strengths.  
-- Suggest the top 2–3 problem statements where we have the highest chance of winning, based on:  
-   a) Alignment with our technical expertise  
-   b) Innovation opportunities  
-   c) Feasibility within the hackathon timeline  
-   d) Real-world impact and uniqueness  
-- For each recommended problem statement, explain **why it fits us best** and how we could stand out.  
-- Finally, rank the options from strongest to weakest fit.  
+---
 
-Now, here are the details:  
-Problem Statements: [Paste all 10 here]  
-Team Skills: [Paste your team’s skill set here]  
+## 📊 Output Requirements  
+
+- Use **headings + emojis**  
+- Add **tables/boxes** for comparisons  
+- Highlight **key takeaways**  
+- Include **links/references** to real apps, platforms, or papers  
+- Provide a **Miro-friendly flow diagram** outline  
+
+---
+
+✨ The final output should be **pitch-deck friendly** and directly usable for **team brainstorming + evaluator presentation**.  
+
