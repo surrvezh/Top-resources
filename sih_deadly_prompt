@@ -1,0 +1,127 @@
+hackathon_prompt_kit:
+  description: >
+    A collection of ready-to-use AI prompts for winning hackathons.
+    Use them across ChatGPT, Perplexity, Whimsical, Miro, Prezi, Firebase Studio
+    to research, design, and pitch faster.
+
+  prompts:
+
+    - name: "PPT / Roadmap Prompt (Main Prompt)"
+      tool: "ChatGPT"
+      content: |
+        I have the following Problem Statement (PS):
+        👉 [Paste your PS here]
+
+        Please analyze it thoroughly and give me a structured, pitch-deck-friendly breakdown under these categories:
+
+        1. Problem Understanding & Pain Points 🔍
+        2. Feasibility of Execution ⚙️
+        3. Impact & Relevance 🌍
+        4. Innovation & Competitive Landscape 💡
+        5. Clarity of the Problem Statement 🧩
+        6. Evaluator’s Perspective 🎯
+        7. Team Strategy & Execution Plan 👥
+        8. Flow Diagram (Miro-Ready) 🗺️
+
+        📊 Output Requirements:
+        - Use headings + emojis
+        - Add competitor tables/boxes
+        - Highlight key takeaways
+        - Reference real apps/papers
+        - Provide a Miro-ready flow diagram
+
+        ✨ Final output should be pitch-deck ready.
+
+    - name: "Perplexity Prompt (Deep Research)"
+      tool: "Perplexity"
+      content: |
+        I have the following Hackathon Problem Statement (PS):
+        👉 [Paste your PS here]
+
+        Please act like a research assistant and provide:
+        1. Background & Context – current state of this problem in India & globally (cite sources).
+        2. Existing Solutions – startups, apps, government projects, research papers.
+        3. Competitor/Comparative Table – top 5 solutions with features, strengths, weaknesses.
+        4. Datasets & APIs – public/free datasets or APIs we can use in a prototype.
+        5. Tech Trends – latest innovations in this domain (AI/ML, Blockchain, IoT, etc.).
+        6. Pain Points – gaps in existing solutions and opportunities for innovation.
+
+        📊 Format results with bullet points, tables, and citations.
+        Keep it hackathon-ready and concise.
+
+    - name: "Whimsical Prompt (System Flow / Architecture)"
+      tool: "Whimsical"
+      content: |
+        I’m designing the system architecture for this hackathon Problem Statement:
+        👉 [Paste your PS here]
+
+        Please generate a flow diagram with:
+        - User inputs (mobile/web/app)
+        - Core processes (backend logic, APIs, databases, AI models if any)
+        - Outputs (visualization, results, reports, notifications)
+        - Decision points (◇), Processes (▭), Inputs/Outputs (Parallelogram), Data Stores (Cylinder)
+
+        Deliver in **Whimsical-friendly format**.
+        Keep it simple, scalable, and presentation-ready.
+
+    - name: "Miro Prompt (Wireframes / UI Flow)"
+      tool: "Miro"
+      content: |
+        I’m building a hackathon prototype for this Problem Statement:
+        👉 [Paste your PS here]
+
+        Please generate **low-fidelity wireframes** for the solution’s UI.
+
+        Include:
+        - Landing screen (problem/solution intro)
+        - 3 core feature screens
+        - User flow: login → action → output
+        - A simple storyboard for pitching (Problem → Solution → Demo → Impact)
+
+        Keep it **minimal, clean, and hackathon-pitch friendly**.
+        Show the step-by-step user journey clearly.
+
+    - name: "Prezi Prompt (Presentation Deck)"
+      tool: "Prezi"
+      content: |
+        Create a **hackathon pitch deck** for this Problem Statement:
+        👉 [Paste your PS here]
+
+        Deck Structure:
+        1. Problem Statement & Pain Points
+        2. Why Now (Trends, urgency, relevance)
+        3. Our Solution + Demo flow
+        4. Tech Stack & Prototype plan
+        5. Impact & Scalability
+        6. Competitor Analysis (Table)
+        7. Roadmap & Execution Plan
+        8. Call-to-action / Closing slide
+
+        Make it **engaging, visual-first, evaluator-friendly**.
+        Highlight metrics, impact, and simplicity.
+
+    - name: "Firebase Studio Prompt (Prototype Build)"
+      tool: "Firebase Studio"
+      content: |
+        I need to build a quick prototype for this Problem Statement:
+        👉 [Paste your PS here]
+
+        Please:
+        1. Generate a basic full-stack app scaffold using Firebase (Auth, Firestore, Hosting).
+        2. Add login/signup flow.
+        3. Build 2–3 core features aligned to the problem statement.
+        4. Add simple UI with minimal styling (mobile-first).
+        5. Show how to deploy quickly for demo.
+
+        Keep code simple, hackathon-friendly, and modular.
+
+  usage_guide: |
+    ✅ How to Use:
+    1. Start with PPT Prompt → for roadmap & clarity.
+    2. Run Perplexity Prompt → for deep research + data.
+    3. Use Whimsical Prompt → for flow/system diagrams.
+    4. Use Miro Prompt → for wireframes & UI mockups.
+    5. Use Prezi Prompt → for final pitch deck.
+    6. Use Firebase Studio Prompt → for working demo.
+
+    🔥 With these prompts, you can go from Problem Statement → Research → Design → Prototype → Pitch in record time.
