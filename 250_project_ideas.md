@@ -1,7 +1,16 @@
-Join my whatsap community - [https://whatsapp.com/channel/0029Vanmr9EJuyABr8X5US2z]
-Checkout Youtube for college related content - [https://yt.openinapp.co/ua6io]
-Connect with me on linkedin - [https://www.linkedin.com/in/surrvesh-k-s-277452252]
-connect with me on instagram - [https://www.instagram.com/surrvesh_joshua]
+# Connect with Me
+
+- Join my WhatsApp community  
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vanmr9EJuyABr8X5US2z)
+
+- Check out my YouTube channel for college-related content  
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://yt.openinapp.co/ua6io)
+
+- Connect with me on LinkedIn  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surrvesh-k-s-277452252)
+
+- Follow me on Instagram  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/surrvesh_joshua)
 
 
 # 50 AI-Powered Civil Engineering Projects
