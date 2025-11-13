@@ -9,14 +9,14 @@ Here’s a comprehensive list of top companies hiring for **VLSI, Embedded, Semi
 ## 1. NVIDIA – GPU & Embedded Systems
 
 **Domain:** GPU Architecture, Deep Learning, Embedded Systems  
-**Apply:** [NVIDIA Careers](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite)
+**Apply:** [NVIDIA Careers](https://in.indeed.com/q-jetson-nano-jobs.html?vjk=76231320e722fae9)
 
 ---
 
 ## 2. Qualcomm – Wireless & 5G
 
 **Domain:** Wireless Communication, 5G, Signal Processing  
-**Apply:** [Qualcomm Careers](https://www.qualcomm.com/careers)
+**Apply:** [Qualcomm Careers](https://careers.qualcomm.com/careers/job/446706882405?hl=en-US)
 
 ---
 
@@ -94,22 +94,6 @@ Here’s a comprehensive list of top companies hiring for **VLSI, Embedded, Semi
 
 **Domain:** Embedded Systems, Telecom, VLSI Design  
 **Apply:** [L&T Technology Jobs](https://www.lntechjobs.com)
-
----
-
-## 14. Honeywell Technology Solutions – Avionics & Controls
-
-**Domain:** Avionics, Control Systems, Industrial Automation  
-**Apply:** [Honeywell Careers](https://careers.honeywell/in)
-
----
-
-## 15. Wipro R&D / Wipro Embedded Labs
-
-**Domain:** Telecom, Embedded Systems, Product Development  
-**Apply:** [Wipro Careers](https://careers.wipro.com)
-
----
 
 ### Pro Tip
 
