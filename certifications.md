@@ -1,6 +1,6 @@
 | Skill                        | Course Name                               | Offered By                  | Direct Link                                                                 |
 |------------------------------|-------------------------------------------|-----------------------------|-----------------------------------------------------------------------------|
-| Artificial Intelligence (AI) | AI Fundamentals                           | Microsoft                   | https://learn.microsoft.com/en-us/training/paths/get-started-artificial-intelligence/ |
+| Artificial Intelligence (AI) | AI Fundamentals                           | Microsoft                   | https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/|
 | Cloud Computing              | AWS Cloud Practitioner Essentials         | Amazon Web Services (AWS)   | https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials |
 | Data Analytics               | Get Started with Microsoft Data Analytics | Microsoft                   | https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/ |
 | Data Science                 | Data Science Foundations                  | IBM (via SkillsBuild)       | https://skillsbuild.org/students/course-catalog/data-science              |
